@@ -1,0 +1,21 @@
+.button {
+    color:blue;
+    background-color: brown;
+    border:none;
+    display: inline-block;
+    font-size: 250px;
+    border: 1px;
+}
+
+.span {
+    color: red;
+    background-color: yellow;
+    font-size: 250px;
+   
+}
+
+.App, .div {
+    background-color: lightseagreen;
+    text-align: center;
+    margin: 15%;
+}
